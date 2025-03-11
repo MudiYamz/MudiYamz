@@ -2,8 +2,8 @@
 
 My name is Mudi, I am an Economics and International Business Graduate (earning a Bachelor's Degree and Master's Degree respectively), and I am interested in all things Python & Data Science.
 
-- 🌱 I’m currently learning Python Data Analysis and looking to get experience as a Python junior developer.
-I am also looking to start by making a web scrapping tool for providing financial information on alternative investments specifically Art and Real Estate.
+- 🌱 I’m currently learning Python and looking to get experience as a Python junior developer for data analysis.
+
 - 👩🏻‍🤝‍👨🏿 Also looking to collaborate to make YouTube Videos/content for my Art company which I created called Freshlemonwater. I also designed and built the website.
   Send ideas (Creative Art related) to mudi@freshlemonwater.com 
 
