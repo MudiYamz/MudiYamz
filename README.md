@@ -5,6 +5,7 @@ My name is Mudi, I am an Economics and International Business Graduate (earning 
 - 🌱 I’m currently learning Python and looking to get experience as a Python junior developer for data analysis.
 
 - 👩🏻‍🤝‍👨🏿 Also looking to collaborate to improve the UI/UX for my Art company which I created called Freshlemonwater. (FYI I designed and built the website)
+
   To contact me on anything related to project management, python, or my work in the arts you can send an email to mudi@freshlemonwater.com 
 
 <!---
